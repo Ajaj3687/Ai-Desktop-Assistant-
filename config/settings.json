@@ -1,0 +1,8 @@
+{
+    "theme": "Dark",
+    "color_theme": "blue",
+    "voice_rate": 180,
+    "voice_volume": 1.0,
+    "voice_gender": "female",
+    "wake_word_enabled": true
+}

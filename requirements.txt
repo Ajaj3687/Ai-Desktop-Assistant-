@@ -1,0 +1,10 @@
+customtkinter
+SpeechRecognition
+pyttsx3
+google-generativeai
+python-dotenv
+requests
+pyaudio; sys_platform != "win32" or python_version < "3.14"
+pyaudiowpatch; sys_platform == "win32" and python_version >= "3.14"
+pytest
+
